@@ -1,4 +1,4 @@
-# @roootquant
+# @rootquant
 
 ## Who I Am
 I build systematic trading technology from first principles.  
